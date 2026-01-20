@@ -1,42 +1,68 @@
-## 👨‍💻 Julio Muñoz — Full Stack Developer
-### ¡Hola! Soy Julio, un desarrollador full stack con experiencia en el desarrollo de soluciones web escalables, optimización de procesos y automatización de tareas. Me apasiona construir software útil que realmente mejore la vida y el trabajo de las personas.
+# 👨‍💻 Julio Muñoz — Full Stack Developer
 
-## 🚀 Tecnologías que uso
-Frontend: React.js, Next.js, JavaScript, Tailwind CSS, Bootstrap
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" width="40" height="40"/> 
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/laravel/laravel-plain-wordmark.svg" width="40" height="40"/> 
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" width="40" height="40"/>
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/php/php-original.svg" width="40" height="40"/>
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original-wordmark.svg" width="40" height="40"/>
-Backend: PHP (Laravel, Yii2), Node.js, Express.js
+<p align="left">
+  <img src="https://img.shields.io/badge/Status-Open%20to%20Work-emerald?style=flat-square" />
+  <img src="https://img.shields.io/badge/Role-Full%20Stack-blue?style=flat-square" />
+  <img src="https://img.shields.io/badge/Location-Mexico-orange?style=flat-square" />
+</p>
 
-Bases de datos: MySQL, MongoDB
+> ¡Hola! Soy Julio. Me apasiona construir software que optimiza procesos y mejora la vida de las personas. Especialista en automatización y arquitecturas escalables.
 
-Otras herramientas: Git, GitHub, Bitbucket, Figma, Webpack, NPM, Composer
+---
 
-# 🛠 Proyectos Destacados
-## 📊 Sistema Estadístico de Envasado
-Desarrollado para Envasadora Aguida. Logré automatizar reportes y análisis, reduciendo el uso de papel en un 90%. El sistema se integra con bases de datos dinámicas utilizando estructuras JSON para adaptarse a diversos volúmenes de datos.
+### 🚀 Tecnologías & Stack
 
-## 💻 Sistema de Gestión para Sanitizantes
-Aplicación interna que mejoró la precisión en cálculos, redujo tiempos de captura y eliminó errores en procesos que antes se realizaban manualmente en Excel.
+| **Frontend** | **Backend** | **Bases de Datos & Tools** |
+| :--- | :--- | :--- |
+| <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" width="25"/> **React.js / Next.js** | <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/laravel/laravel-original.svg" width="25"/> **Laravel / PHP** | <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" width="25"/> **MySQL / MongoDB** |
+| <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" width="25"/> **JavaScript (ES6+)** | <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" width="25"/> **Node.js / Express** | <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" width="25"/> **Git / GitHub** |
+| <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tailwindcss/tailwindcss-original-wordmark.svg" width="25"/> **Tailwind / Bootstrap** | <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/php/php-original.svg" width="25"/> **Yii2 Framework** | <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/figma/figma-original.svg" width="25"/> **Figma / Webpack** |
+
+---
+
+### 🛠 Proyectos Destacados
+
+<table border="0">
+  <tr>
+    <td width="50%" valign="top">
+      <h4>📊 Sistema Estadístico de Envasado</h4>
+      <p><i>Envasadora Aguida</i></p>
+      <ul>
+        <li>Reducción del 90% en uso de papel.</li>
+        <li>Integración de estructuras JSON dinámicas.</li>
+        <li>Automatización de reportes críticos.</li>
+      </ul>
+      <code>PHP</code> <code>Laravel</code> <code>MySQL</code> <code>JSON</code>
+    </td>
+    <td width="50%" valign="top">
+      <h4>💻 Gestión para Sanitizantes</h4>
+      <p><i>Aplicación Interna</i></p>
+      <ul>
+        <li>Eliminación de errores manuales en Excel.</li>
+        <li>Optimización de tiempos de captura.</li>
+        <li>Cálculos de precisión industrial.</li>
+      </ul>
+      <code>React</code> <code>Node.js</code> <code>Express</code>
+    </td>
+  </tr>
+</table>
+
+---
+
+### 📊 GitHub Stats
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=JulioMunozDev&show_icons=true&theme=dark&hide_border=true&bg_color=0c0c0c&title_color=ffffff&text_color=9f9f9f" height="150" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=JulioMunozDev&layout=compact&theme=dark&hide_border=true&bg_color=0c0c0c&title_color=ffffff&text_color=9f9f9f" height="150" />
+</p>
+
+---
 
 ### 📫 Contacto
-### 📧 Email: munozaguida@gmail.com
-### 💼 LinkedIn
-### 🌐 Portafolio Web
 
-<!--
-**JulioMunozDev/JulioMunozDev** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<p align="left">
+<a href="mailto:munozaguida@gmail.com"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" /></a>
+<a href="https://linkedin.com/in/TU_USUARIO"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
+<a href="https://TU_PORTAFOLIO.com"><img src="https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=vercel&logoColor=white" /></a>
+</p>
 
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+<img src="https://capsule-render.vercel.app/api?type=waving&color=auto&height=100&section=footer" width="100%"/>
