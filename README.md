@@ -19,35 +19,13 @@
 | <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tailwindcss/tailwindcss-original-wordmark.svg" width="25"/> **Tailwind / Bootstrap** | <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/php/php-original.svg" width="25"/> **Yii2 Framework** | <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg" width="25"/> **PostgreSQL** | <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/webpack/webpack-original.svg" width="25"/> **Webpack** |
 | <img src="https://cdn.simpleicons.org/blazor/512BD4" width="25"/> **Blazor** | <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/dotnet/dotnet-original.svg" width="25"/> **.NET / C#** | <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/sqlite/sqlite-original.svg" width="25"/> **SQLite** | <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vite/vite-original.svg" width="25"/> **Vite** |
 
-### 🧠 Conceptos y Buenas Prácticas
+### 🧠 Conceptos por área
 
-<p align="left">
-  <img src="https://img.shields.io/badge/-MVC-555?style=flat&logo=model&logoColor=white" />
-  <img src="https://img.shields.io/badge/-API%20REST-555?style=flat&logo=api&logoColor=white" />
-  <img src="https://img.shields.io/badge/-Eloquent%20ORM-555?style=flat&logo=laravel&logoColor=white" />
-  <img src="https://img.shields.io/badge/-Entity%20Framework-555?style=flat&logo=dotnet&logoColor=white" />
-  <img src="https://img.shields.io/badge/-ADO.NET-555?style=flat&logo=dotnet&logoColor=white" />
-  <img src="https://img.shields.io/badge/-LINQ-555?style=flat&logo=csharp&logoColor=white" />
-  <img src="https://img.shields.io/badge/-Stored%20Procedures-555?style=flat&logo=mysql&logoColor=white" />
-  <img src="https://img.shields.io/badge/-Triggers-555?style=flat&logo=postgresql&logoColor=white" />
-  <img src="https://img.shields.io/badge/-Microservicios-555?style=flat&logo=kubernetes&logoColor=white" />
-</p>
+**Backend**:  
+`MVC` `API REST` `Microservicios` `Eloquent ORM` `Entity Framework`
 
----
-
-### 🧠 Conceptos y Buenas Prácticas
-
-<p align="left">
-  <img src="https://img.shields.io/badge/-MVC-555?style=flat&logo=model&logoColor=white" />
-  <img src="https://img.shields.io/badge/-API%20REST-555?style=flat&logo=api&logoColor=white" />
-  <img src="https://img.shields.io/badge/-Eloquent%20ORM-555?style=flat&logo=laravel&logoColor=white" />
-  <img src="https://img.shields.io/badge/-Entity%20Framework-555?style=flat&logo=dotnet&logoColor=white" />
-  <img src="https://img.shields.io/badge/-ADO.NET-555?style=flat&logo=dotnet&logoColor=white" />
-  <img src="https://img.shields.io/badge/-LINQ-555?style=flat&logo=csharp&logoColor=white" />
-  <img src="https://img.shields.io/badge/-Stored%20Procedures-555?style=flat&logo=mysql&logoColor=white" />
-  <img src="https://img.shields.io/badge/-Triggers-555?style=flat&logo=postgresql&logoColor=white" />
-  <img src="https://img.shields.io/badge/-Microservicios-555?style=flat&logo=kubernetes&logoColor=white" />
-</p>
+**Bases de Datos**:  
+`Stored Procedures` `Triggers` `LINQ` `ADO.NET`
 
 ---
 
