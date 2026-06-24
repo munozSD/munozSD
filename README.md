@@ -51,7 +51,7 @@
 
 ### 📊 GitHub Stats
 <p align="center">
-  <img src="https://github-readme-stats-sigma-five.vercel.app/api?username=JulioMunozDev&show_icons=true&theme=dark&hide_border=true&bg_color=0c0c0c&title_color=ffffff&text_color=9f9f9f" height="150" />
+  <img src="https://github-readme-stats-sigma-five.vercel.app/api?username=munozSD&show_icons=true&theme=dark&hide_border=true&bg_color=0c0c0c&title_color=ffffff&text_color=9f9f9f" height="150" />
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=munozSD&layout=compact&theme=dark&hide_border=true&bg_color=0c0c0c&title_color=ffffff&text_color=9f9f9f" height="150" />
 </p>
 
