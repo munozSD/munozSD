@@ -12,11 +12,28 @@
 
 ### 🚀 Tecnologías & Stack
 
-| **Frontend** | **Backend** | **Bases de Datos & Tools** |
-| :--- | :--- | :--- |
-| <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" width="25"/> **React.js / Next.js** | <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/laravel/laravel-original.svg" width="25"/> **Laravel / PHP** | <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" width="25"/> **MySQL / MongoDB** |
-| <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" width="25"/> **JavaScript (ES6+)** | <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" width="25"/> **Node.js / Express** | <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" width="25"/> **Git / GitHub** |
-| <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tailwindcss/tailwindcss-original-wordmark.svg" width="25"/> **Tailwind / Bootstrap** | <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/php/php-original.svg" width="25"/> **Yii2 Framework** | <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/figma/figma-original.svg" width="25"/> **Figma / Webpack** |
+| **Frontend** | **Backend** | **Bases de Datos** | **Herramientas** |
+| :--- | :--- | :--- | :--- |
+| <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" width="25"/> **React / Next.js** | <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/laravel/laravel-original.svg" width="25"/> **Laravel / PHP** | <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" width="25"/> **MySQL** | <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" width="25"/> **Git / GitHub** |
+| <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" width="25"/> **JavaScript (ES6+)** | <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" width="25"/> **Node.js / Express** | <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original.svg" width="25"/> **MongoDB** | <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/figma/figma-original.svg" width="25"/> **Figma** |
+| <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tailwindcss/tailwindcss-original-wordmark.svg" width="25"/> **Tailwind / Bootstrap** | <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/php/php-original.svg" width="25"/> **Yii2 Framework** | <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg" width="25"/> **PostgreSQL** | <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/webpack/webpack-original.svg" width="25"/> **Webpack** |
+| <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/dotnet/dotnet-original.svg" width="25"/> **Blazor** | <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/dotnet/dotnet-original.svg" width="25"/> **.NET / C#** | <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/sqlite/sqlite-original.svg" width="25"/> **SQLite** | <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vite/vite-original.svg" width="25"/> **Vite** |
+
+---
+
+### 🧠 Conceptos y Buenas Prácticas
+
+<p align="left">
+  <img src="https://img.shields.io/badge/-MVC-555?style=flat&logo=model&logoColor=white" />
+  <img src="https://img.shields.io/badge/-API%20REST-555?style=flat&logo=api&logoColor=white" />
+  <img src="https://img.shields.io/badge/-Eloquent%20ORM-555?style=flat&logo=laravel&logoColor=white" />
+  <img src="https://img.shields.io/badge/-Entity%20Framework-555?style=flat&logo=dotnet&logoColor=white" />
+  <img src="https://img.shields.io/badge/-ADO.NET-555?style=flat&logo=dotnet&logoColor=white" />
+  <img src="https://img.shields.io/badge/-LINQ-555?style=flat&logo=csharp&logoColor=white" />
+  <img src="https://img.shields.io/badge/-Stored%20Procedures-555?style=flat&logo=mysql&logoColor=white" />
+  <img src="https://img.shields.io/badge/-Triggers-555?style=flat&logo=postgresql&logoColor=white" />
+  <img src="https://img.shields.io/badge/-Microservicios-555?style=flat&logo=kubernetes&logoColor=white" />
+</p>
 
 ---
 
