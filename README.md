@@ -19,8 +19,6 @@
 | <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tailwindcss/tailwindcss-original-wordmark.svg" width="25"/> **Tailwind / Bootstrap** | <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/php/php-original.svg" width="25"/> **Yii2 Framework** | <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg" width="25"/> **PostgreSQL** | <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/webpack/webpack-original.svg" width="25"/> **Webpack** |
 | <img src="https://cdn.simpleicons.org/blazor/512BD4" width="25"/> **Blazor** | <img src="https://cdn.simpleicons.org/dotnet/512BD4" width="25"/> **.NET/C#** | <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/sqlite/sqlite-original.svg" width="25"/> **SQLite** | <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vite/vite-original.svg" width="25"/> **Vite** |
 
-### 🧠 Conceptos por área
-
 **Backend**:  
 `MVC` `API REST` `Microservicios` `Eloquent ORM` `Entity Framework`
 
@@ -28,8 +26,6 @@
 `Stored Procedures` `Triggers` `LINQ` `ADO.NET`
 
 ---
-
-### 🛠 Proyectos Destacados
 
 <table border="0">
   <tr>
@@ -58,7 +54,6 @@
 
 ---
 
-### 📊 GitHub Stats
 <p align="center">
   <img src="https://github-readme-stats-sigma-five.vercel.app/api?username=munozSD&show_icons=true&theme=dark&hide_border=true&bg_color=0c0c0c&title_color=ffffff&text_color=9f9f9f" height="150" />
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=munozSD&layout=compact&theme=dark&hide_border=true&bg_color=0c0c0c&title_color=ffffff&text_color=9f9f9f" height="150" />
@@ -66,12 +61,10 @@
 
 ---
 
-### 📫 Contacto
-
 <p align="left">
 <a href="mailto:munozaguida@gmail.com"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" /></a>
 <a href="https://linkedin.com/in/TU_USUARIO"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
 <a href="https://TU_PORTAFOLIO.com"><img src="https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=vercel&logoColor=white" /></a>
 </p>
 
-<img src="[https://capsule-render.vercel.app/api?type=waving&color=red&height=100&section=footer" width="100%](https://capsule-render.vercel.app/api?type=waving&color=004343&height=100&section=footer%22%20width=%22100%)"/>
+<img src="[https://capsule-render.vercel.app/api?type=waving&color=red&height=100&section=footer" width="100%]()"/>
